@@ -1,0 +1,9 @@
+#container {
+  display: flex;
+}
+.breed-image-container img {
+  width: 20%;
+  height: 180px;
+  margin: 4px;
+  object-fit: cover;
+}
